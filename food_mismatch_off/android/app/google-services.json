@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179496197524",
+    "project_id": "food-mismatch-off",
+    "storage_bucket": "food-mismatch-off.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179496197524:android:725b918f344d3065e98381",
+        "android_client_info": {
+          "package_name": "com.example.food_mismatch_off"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq-UyA90COxfaKY4MjVDRlVLmore8KSqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
